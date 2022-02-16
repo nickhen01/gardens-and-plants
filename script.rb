@@ -1,0 +1,5 @@
+banner_url: "https://raw.githubusercontent.com/lewagon/fullstack-images/master/rails/parks-and-plants/garden_1.jpg"
+plant1: "https://raw.githubusercontent.com/lewagon/fullstack-images/master/rails/parks-and-plants/plants/caryota.jpg"
+plant2: "https://raw.githubusercontent.com/lewagon/fullstack-images/master/rails/parks-and-plants/plants/dieffenbachia.jpg"
+plant3: "https://raw.githubusercontent.com/lewagon/fullstack-images/master/rails/parks-and-plants/plants/monstera.jpg"
+plant4: "https://raw.githubusercontent.com/lewagon/fullstack-images/master/rails/parks-and-plants/plants/philo.jpg"
